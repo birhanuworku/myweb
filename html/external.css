@@ -1,0 +1,23 @@
+.practice1 h4{
+	color: black;
+	background-color: blue;
+	padding: 20px;
+}
+.practice1 h5{
+	padding: 20px;
+}
+.practice1 body{
+	background-color: yellow;
+}
+.birhanu{
+	background-color: #7FFFD4k;
+}
+.birhanu h3{
+	color: red;
+	border-color: green;
+	font-size: 1em;
+}
+.birhanu img{
+	width: 700px;
+	height: 500px;
+}
